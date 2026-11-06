@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise – Personal Expense Tracker",
+  "description": "Modern, beginner-friendly Android expense tracker built with Flutter, Provider, SharedPreferences, and Material Design 3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
